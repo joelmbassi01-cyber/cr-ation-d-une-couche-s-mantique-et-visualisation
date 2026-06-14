@@ -1,0 +1,8 @@
+C:\Users\joelm\OneDrive\Bureau\bois de boulogne\Implementation d'une couche sémantique\Exercices\CUBE AdventureWorks\CUBE AdventureWorks\bin\Model.asdatabase
+C:\Users\joelm\OneDrive\Bureau\bois de boulogne\Implementation d'une couche sémantique\Exercices\CUBE AdventureWorks\CUBE AdventureWorks\bin\Model.deploymenttargets
+C:\Users\joelm\OneDrive\Bureau\bois de boulogne\Implementation d'une couche sémantique\Exercices\CUBE AdventureWorks\CUBE AdventureWorks\bin\Model.deploymentoptions
+C:\Users\joelm\OneDrive\Bureau\bois de boulogne\Implementation d'une couche sémantique\Exercices\CUBE AdventureWorks\CUBE AdventureWorks\obj\Development\CUBE AdventureWorks.smproj.AssemblyReference.cache
+C:\Users\joelm\OneDrive\Bureau\bois de boulogne\Implementation d'une couche sémantique\Exercices\CUBE AdventureWorks\CUBE AdventureWorks\obj\Development\CUBE AdventureWorks.smproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Bureau\bois de boulogne\Implementation d'une couche sémantique\Exercices\CUBE AdventureWorks\CUBE AdventureWorks\obj\Development\Model.asdatabase
+C:\Users\joelm\OneDrive\Bureau\bois de boulogne\Implementation d'une couche sémantique\Exercices\CUBE AdventureWorks\CUBE AdventureWorks\obj\Development\Model.deploymentoptions
+C:\Users\joelm\OneDrive\Bureau\bois de boulogne\Implementation d'une couche sémantique\Exercices\CUBE AdventureWorks\CUBE AdventureWorks\obj\Development\Model.deploymenttargets
